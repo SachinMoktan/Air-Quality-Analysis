@@ -55,7 +55,7 @@ The project combines **big data processing (PySpark)** and **data visualization 
 
 
 
-## 📈 Visualizations (Tableau)
+##  Visualizations (Tableau)
 
 Key dashboards created:
 
@@ -69,7 +69,7 @@ Key dashboards created:
 
 
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Urban areas show consistently higher AQI levels  
 - PM2.5 is the most dominant pollutant affecting air quality  
@@ -118,6 +118,6 @@ Data Analyst | AI Enthusiast
 📍 Kathmandu, Nepal  
 🔗 LinkedIn: https://www.linkedin.com/in/sachinmoktan/  
 
----
 
-## \ If you found this project useful, consider giving it a star!
+
+##  If you found this project useful, consider giving it a star!
